@@ -1,6 +1,12 @@
 # DCA Backtest Simulator
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://iindrajeet4.github.io/dca-backtest/)
+[![Dependencies](https://img.shields.io/badge/dependencies-none-blue.svg)](#)
+
 A single-file, 100% client-side web app that simulates **dollar-cost averaging (DCA)** against approximate historical annual returns (1990–2025) for three assets: **S&P 500**, **Gold**, and the **SET Index (Thailand)**.
+
+**[🔗 Live Demo / ลองใช้เลย](https://iindrajeet4.github.io/dca-backtest/)**
 
 Open `index.html` in any modern browser — no build step, no server, no external libraries.
 
@@ -29,6 +35,8 @@ MIT — see [LICENSE](LICENSE). Inspired by DCA calculators; independent impleme
 # เครื่องมือจำลอง DCA ย้อนหลัง (ภาษาไทย)
 
 เว็บแอปไฟล์เดียว ทำงานบนเบราว์เซอร์ 100% สำหรับจำลองการลงทุนแบบถัวเฉลี่ยต้นทุน (DCA) ด้วยผลตอบแทนรายปีโดยประมาณ (ค.ศ. 1990–2025) ของ 3 สินทรัพย์: **S&P 500**, **ทองคำ** และ **ดัชนี SET (ไทย)**
+
+**[🔗 ลองใช้งานได้ทันทีที่นี่](https://iindrajeet4.github.io/dca-backtest/)**
 
 เพียงเปิดไฟล์ `index.html` ในเบราว์เซอร์ — ไม่ต้องติดตั้งอะไรเพิ่ม ไม่ใช้ไลบรารีภายนอก
 
