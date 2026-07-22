@@ -60,3 +60,12 @@ MIT — see [LICENSE](LICENSE). Inspired by DCA calculators; independent impleme
 ## สัญญาอนุญาต
 
 MIT — ดูไฟล์ [LICENSE](LICENSE) · ได้รับแรงบันดาลใจจากเครื่องคำนวณ DCA ทั่วไป พัฒนาขึ้นใหม่โดยอิสระ
+
+---
+
+## 💼 Services & custom work
+
+I take on freelance and contract work around this project — custom implementation,
+new features, and integration with your stack.
+
+**Contact:** [GitHub @iindrajeet4](https://github.com/iindrajeet4) (opening an issue on this repo works too) · [DubeGames](https://dubegames.indrajeetdubeyy.workers.dev/)
